@@ -3,7 +3,7 @@ Fulah wordlist for dictionaries and spellcheckers
 (ff)
 Pulaar-Fulfulde spelling dictionary.
 Version 0.1 (beta)
-Copyright (c) 2015 PULAAGU.COM (ibrahima.sarr<at>pulaagu<dot>com)
+Copyright (c) 2015 LOWRE-PULAAGU.COM (ibrahima.sarr<at>lowre-pulaagu<dot>com)
 
 Licences (MPL1.1/GPLv3+/LGPLv3+ Tri-licence):
 * MPL : Mozilla Public License
